@@ -2,110 +2,67 @@
 
 # 👋 Olá, eu sou o Geovane Rocha
 
-### 🧪 Quality Assurance | Testes Manuais | Automação de Testes
+### 🧪 Quality Assurance Engineer em formação
 
-`QA EM FORMAÇÃO` • `ADS` • `PYTHON` • `SELENIUM` • `PYTEST`
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Testes+Manuais;Bug+Reports;Selenium+%2B+Pytest;Git+%7C+Postman+%7C+SQL;Sempre+aprendendo+QA" />
 
 </div>
 
 ---
 
-## 👨‍💻 SOBRE MIM
+## 👨‍💻 Sobre mim
 
-Sou graduado em **Análise e Desenvolvimento de Sistemas** e atualmente estou direcionando minha carreira para **Quality Assurance (QA)**.
-
-Tenho desenvolvido projetos práticos envolvendo **testes manuais, documentação de bugs, casos de teste, testes de API, SQL e automação de testes**.
-
-Mais do que apenas estudar ferramentas, procuro entender como investigar problemas, documentar evidências e contribuir para a qualidade da experiência do usuário.
+- 🎓 Análise e Desenvolvimento de Sistemas
+- 🧪 Focado em Quality Assurance
+- 🤖 Automação com Python + Selenium + Pytest
+- 🌐 Testes de API com Postman
+- 🗄️ SQL para validação de dados
+- 📚 Estudando ISTQB Foundation
 
 ---
 
-## 🧪 QA CORE
+## 🚀 Tecnologias
 
-```text
-╔══════════════════════════════════════════════╗
-║          QUALITY ASSURANCE SYSTEM            ║
-╠══════════════════════════════════════════════╣
-║                                              ║
-║  [✓] Testes Manuais                         ║
-║  [✓] Bug Reports                            ║
-║  [✓] Casos de Teste                         ║
-║  [✓] Testes Exploratórios                   ║
-║  [✓] API / Postman                          ║
-║  [✓] SQL                                    ║
-║  [✓] Git & GitHub                           ║
-║  [✓] Python + Selenium + Pytest             ║
-║                                              ║
-║  STATUS: EVOLUINDO TODOS OS DIAS 🚀          ║
-╚══════════════════════════════════════════════╝
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,git,github,selenium,postman,vscode&theme=dark" />
+</p>
 
-🛠️ STACK & FERRAMENTAS
-<div align="center"> <img src="https://skillicons.dev/icons?i=python,selenium,git,github,postman,vscode&theme=dark" /> </div> <br>
+---
 
-| Área                 | Tecnologias / Práticas                                               |
-| -------------------- | -------------------------------------------------------------------- |
-| 🧪 **QA**            | Testes Manuais • Casos de Teste • Bug Reports • Testes Exploratórios |
-| 🤖 **Automação**     | Python • Selenium WebDriver • Pytest                                 |
-| 🌐 **API**           | Postman • HTTP • CRUD                                                |
-| 🗄️ **Dados**        | SQL básico                                                           |
-| 🔧 **Versionamento** | Git • GitHub                                                         |
-| 🔎 **Investigação**  | DevTools • Evidências • Análise de comportamento                     |
+## 📊 GitHub Stats
 
-🚀 MEU PORTFÓLIO QA
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Geovane-Rocha&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geovane-Rocha&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-No meu portfólio documento minha evolução através de projetos práticos.
+---
 
-🧪 QA Portfolio
+## 🧪 QA Journey
 
-✔ Bug Reports
-✔ Evidências de testes
-✔ Casos de teste
-✔ Investigações
-✔ Postman / API
-✔ SQL
-✔ Automação com Selenium + Pytest
+| Projeto | Status |
+|---|---|
+| Bug Reports | ✅ |
+| Casos de Teste | ✅ |
+| Testes Exploratórios | ✅ |
+| Postman API | ✅ |
+| SQL | ✅ |
+| Selenium | 🔄 |
+| Pytest | 🔄 |
+| ISTQB | 📚 |
 
-👉 Acessar meu QA Portfolio
+---
 
-🤖 AUTOMAÇÃO
+## 📌 Portfólio
 
-Alguns cenários que já automatizei:
-✓ Login válido
-✓ Login inválido
-✓ Adicionar produto ao carrinho
-✓ Remover produto do carrinho
-✓ Checkout completo
-✓ Logout
-✓ Filtros de produtos
-✓ Usuário bloqueado
-✓ Detalhes do produto
+**QA Portfolio**
 
-Tecnologias utilizadas:
+➡️ github.com/Geovane-Rocha/QA-Portifolio
 
-Python + Selenium WebDriver + Pytest
-
-📚 EVOLUÇÃO 
-Fundamentos de QA       ██████████  ✓
-Testes Manuais          ██████████  ✓
-Git / GitHub            ██████████  ✓
-Postman / API           ██████████  ✓
-SQL básico              ██████████  ✓
-Automação               ████████░░  ↻
-Portfólio               ████████░░  ↻
-Entrevistas QA          ████░░░░░░  ↻
-
-🎯 OBJETIVO
-
-Busco minha primeira oportunidade como QA Júnior, onde possa aplicar meus conhecimentos, aprender com uma equipe de tecnologia e contribuir para a entrega de software com qualidade.
+---
 
 <div align="center">
-🧪 "Qualidade não é apenas encontrar bugs."
 
-É ajudar a construir uma experiência melhor para o usuário.
+### 💬 "Quality is never an accident."
 
-<br>
-Geovane Rocha
-
-Quality Assurance • Always Learning 🚀
-
-</div> ```
+</div>
