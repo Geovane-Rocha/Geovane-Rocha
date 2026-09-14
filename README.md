@@ -1,3 +1,4 @@
+<img width="2172" height="724" alt="banner png" src="https://github.com/user-attachments/assets/51f30a2f-01b1-4f61-a1b5-97641aa6e29c" />
 <div align="center">
 
 # 👋 Olá, eu sou o Geovane Rocha
