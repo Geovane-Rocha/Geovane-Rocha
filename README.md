@@ -61,9 +61,8 @@
 
 ---
 
-## 📌 Portfólio
 
-**QA Portfolio**
+## 📌 Portfólio
 
 **QA Portfolio**
 
