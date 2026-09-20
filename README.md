@@ -65,7 +65,9 @@
 
 **QA Portfolio**
 
-➡️ github.com/Geovane-Rocha/QA-Portifolio
+**QA Portfolio**
+
+➡️ [Acessar meu portfólio de QA](https://github.com/Geovane-Rocha/QA-Portifolio)
 
 ---
 
